@@ -43,3 +43,5 @@ read -p "Enter your email address: " email
 
 # 🔧 Patch final
 bash <(wget -qO- https://github.com/Stefan2512/XUIPatch-Stefan/raw/main/patch.sh)
+
+echo "✅ Instalare completă pentru Ubuntu 22.04!"
