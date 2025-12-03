@@ -19,7 +19,7 @@ apt-get install -y mariadb-server=1:10.5.27+maria~ubu2004 mariadb-client=1:10.5.
   apt-get install -y mariadb-server-10.5 mariadb-client-10.5
 
 # 📥 XUI download & instalare
-wget -O /tmp/XUI_1.5.13.zip "https://iptvmediapro.ro/appsdownload/XUI_1.5.13.zip"
+wget -O /tmp/XUI_1.5.13.zip "https://mega.nz/file/ul5wmKYL#oevFIKm8IgBxYPqGoFL6vRZZ9kxwwmYBJIDg450vdjk"
 cd /tmp
 unzip -o XUI_1.5.13.zip
 chmod +x ./install
